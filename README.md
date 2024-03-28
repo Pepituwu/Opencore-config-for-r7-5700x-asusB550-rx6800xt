@@ -15,11 +15,11 @@ From my experience, here is what works :
 
 ## Exact PC : 
 - Ryzen 7 5700x
-- 16g of ram 3200mhz c16
-- 516g ssd pny (main drive, dual booting with Windows)
+- 16GB of ram 3200mhz c16
+- 516GB ssd pny (main drive, dual booting with Windows)
 - ROG Strix B550-A Gaming
 - Aorus rx6800xt
-- 1to random HDD
+- 1TB random HDD
 
 ## Installation :
 Simply drag and drop the efi folder on the root of your efi partition and let the magie happen! Depending of your hardware, you may want to change some kexts. CHANGE THE SERIAL NUMBERS on config.plist. THIS ONE IS ALREADY TAKEN.
