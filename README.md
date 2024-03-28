@@ -11,7 +11,7 @@ From my experience, here is what works :
 - Sata and NVMe drives
 
 ## What doesn't work:
-- Nothin. Everithing work (no wifi, no problem)
+- Nothin. Everything work (no wifi, no problem)
 
 ## Exact PC : 
 - Ryzen 7 5700x
